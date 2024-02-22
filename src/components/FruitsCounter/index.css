@@ -1,0 +1,40 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: #ffd569;
+  height: 100vh;
+}
+.container {
+  background-color: #ffffff;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-top: 30px;
+}
+.heading {
+  color: #000000;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.img-1 {
+  height: 30vh;
+}
+
+.button {
+  background-color: #007bff;
+  height: 35px;
+  margin-left: 60px;
+  margin-top: 40px;
+  border-radius: 12px;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+.count {
+  color: #ffd569;
+}
